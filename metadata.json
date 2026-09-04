@@ -1,0 +1,6 @@
+{
+  "name": "KardScan by WestJEC",
+  "description": "KardScan by WestJEC: Intelligent business card scanning and contact management dashboard with high-accuracy Japanese and English OCR.",
+  "requestFramePermissions": ["camera"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
